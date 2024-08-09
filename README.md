@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="400" src="https://wallpapercave.com/wp/wp13489009.jpg"  />
-</div>
 
 ###
 
