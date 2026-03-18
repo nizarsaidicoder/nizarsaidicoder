@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">I'm Nizar Saidi<br><br>- 🔭 I’m a student in the second year of BUT 2 in Computer Science in the University of Strasbourg<br>- ⚡ In my free time I code amazing side projects<br>- ⭐ You can check out my website nizar.saidi.com and my projects too<br>- ⌛ Currently looking for an internship</p>
+<p align="center">I'm Nizar Saidi<br><br>- 🔭 I’m a student in the last year of BUT in Computer Science in the University of Strasbourg<br>- ⚡ In my free time I code amazing side projects<br>- ⭐ You can check out my website nizar.saidi.com and my projects too<br>- ⌛ Currently looking for an internship</p>
 
 ###
 
