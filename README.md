@@ -18,14 +18,7 @@ Computer Science student in the final year of BUT at the University of Strasbour
 **Backend Development**
 - Node.js, Java, C#, Python
 - MongoDB, MySQL
+- Docker
 
 **Design & Tools**
 - Figma
-
-## Featured Projects
-
-Check my repositories for detailed project implementations and code samples.
-
-## Get In Touch
-
-Open to discussing development work, data projects, or collaboration opportunities.
